@@ -31,7 +31,7 @@ kubectl apply -f https://raw.githubusercontent.com/roelal/minikube/5093d8b21c093
 5º Iremos criar a imagem que será usada para levantar a aplicação pelo k8s:
 
 ```bash
-docker build -t roanfranklin/racingcaranimation:1.0 .
+docker build -t roanfranklin/racingcaranimation:1.0.0 .
 ```
 
 6º Aplicar os manifestos da aplicação:
