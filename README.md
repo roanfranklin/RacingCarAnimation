@@ -1,5 +1,8 @@
-# RacingCarAnimation
+### RacingCarAnimation
+
 HTML Animado com JS para imagem Docker com manifestos base para funcionamento em Kubernetes.
+
+### 🛠 Lista Comandos
 
 1º Iniciar o minkube com o comando:
 
